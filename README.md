@@ -14,7 +14,7 @@ $session->check();
 $session->set('bs', 'Brandon Sueur, i am 19 years old. I am Freelance.');
 
 // deleting a session
-$session->remove('Gynidark');
+$session->remove('bs');
 
 // remove all sessions
 $session->removeAll();
