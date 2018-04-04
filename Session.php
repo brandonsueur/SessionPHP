@@ -55,8 +55,10 @@ class Session{
      * @param $key
      * @param $value
      */
-    public function set($key, $value){
-        $_SESSION[$key] = $value;
+    public function set($sessions): void {
+        foreach($sessions as $key => $values) {
+            $_SESSION[$key] = $values
+        }
     }
 
     /**
