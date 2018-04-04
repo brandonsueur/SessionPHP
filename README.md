@@ -11,7 +11,10 @@ $session = new Session;
 $session->check();
 
 // adding a session
-$session->set('bs', 'Brandon Sueur, i am 19 years old. I am Freelance.');
+$session->set(array(
+   'bs' => 'Brandon Sueur, i am 19 years old. I am Freelance.',
+   "say_hello" => "Hello world"
+));
 
 // deleting a session
 $session->remove('bs');
