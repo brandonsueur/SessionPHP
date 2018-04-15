@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d315f2a8-1676-4dce-8ece-e9faaf4cbdbc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionSpec.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SessionSpec.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/SessionSpec.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/Session.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/spec/SessionSpec.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -134,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523831251539</updated>
-      <workItem from="1523831259501" duration="1022000" />
+      <workItem from="1523831259501" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1022000" />
+    <option name="totallyTimeSpent" value="1131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="32" width="1920" height="1048" extended-state="0" />
@@ -173,9 +183,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Session.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -194,6 +201,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
